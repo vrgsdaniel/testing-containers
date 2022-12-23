@@ -1,0 +1,5 @@
+black
+isort
+psycopg2-binary
+pydantic
+pytest
